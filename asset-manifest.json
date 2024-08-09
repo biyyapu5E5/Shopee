@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shopee/static/css/main.9a5b6628.css",
-    "main.js": "/Shopee/static/js/main.3a4f7a0c.js",
-    "static/js/453.0712533c.chunk.js": "/Shopee/static/js/453.0712533c.chunk.js",
-    "index.html": "/Shopee/index.html",
-    "main.9a5b6628.css.map": "/Shopee/static/css/main.9a5b6628.css.map",
-    "main.3a4f7a0c.js.map": "/Shopee/static/js/main.3a4f7a0c.js.map",
-    "453.0712533c.chunk.js.map": "/Shopee/static/js/453.0712533c.chunk.js.map"
+    "main.css": "/shopee/static/css/main.9a5b6628.css",
+    "main.js": "/shopee/static/js/main.aea6601a.js",
+    "static/js/453.0712533c.chunk.js": "/shopee/static/js/453.0712533c.chunk.js",
+    "index.html": "/shopee/index.html",
+    "main.9a5b6628.css.map": "/shopee/static/css/main.9a5b6628.css.map",
+    "main.aea6601a.js.map": "/shopee/static/js/main.aea6601a.js.map",
+    "453.0712533c.chunk.js.map": "/shopee/static/js/453.0712533c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a5b6628.css",
-    "static/js/main.3a4f7a0c.js"
+    "static/js/main.aea6601a.js"
   ]
 }
