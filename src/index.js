@@ -10,7 +10,7 @@ import { Provider } from 'react-redux';
 import { store } from './Middleware/store';
 
 const router = createBrowserRouter(createRoutesFromElements(
-  <Route path = '/Shopee' element = {<NavBar />} >
+  <Route path = '/' element = {<NavBar />} >
     <Route index element={<App />} />
     <Route path = 'cart' element = {<Cart />} />
   </Route>
