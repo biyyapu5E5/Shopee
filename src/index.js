@@ -14,7 +14,7 @@ const router = createBrowserRouter(createRoutesFromElements(
     <Route index element={<App />} />
     <Route path = 'cart' element = {<Cart />} />
   </Route>
-), { basename: process.env.NODE_ENV === 'production' ? '/Shopee' : '/' })
+), { basename: process.env.NODE_ENV === 'production' ? '/' : '/' })
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider store = {store}>
